@@ -1,3 +1,5 @@
+local_effective_dimension
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
