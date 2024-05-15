@@ -1,4 +1,6 @@
 local_effective_dimension
+effective_dimension
+.venv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
